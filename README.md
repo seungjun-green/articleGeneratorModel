@@ -4,7 +4,7 @@
 
 Just provide an title to the model and it will generate a whole article about it (up to 1024 tokens).
 
-Find the model on [HuggingFace] (https://huggingface.co/Seungjun/articleGeneratorV1.0)
+Find the model on [HuggingFace](https://huggingface.co/Seungjun/articleGeneratorV1.0)
 
 ## How to try the model
 
