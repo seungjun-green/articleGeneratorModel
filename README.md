@@ -41,9 +41,13 @@ Created a custom dataset using wikipedia data downloaded from kaggle. The csv fi
 The model was trained to generate article based on given prompt(the title)
 
 
-# Example of the training data
+## Example of the training data
+
+| ID      | Prompt               | Article                                                                                                                             |
+|---------|----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 7751246 | Chesterfield Islands | Chesterfield Islands (îles Chesterfield in French) are a group of uninhabited coral islands located in the Coral Sea, northeast of Australia. They are a territory of ....
 
 
 
-# Version Release
+## Version Release
 
