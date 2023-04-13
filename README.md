@@ -2,11 +2,9 @@
 
 ## About the model
 
-The model generates a article based on given title.
+Just provide an title to the model and it will generate a whole article about it (up to 1024 tokens).
 
 ## How to try the model
-
-Just provide an title to the model and it will generate a whole article about it.
 
 ```python
 # Install transformers library
